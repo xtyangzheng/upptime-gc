@@ -1,7 +1,7 @@
 url: https://factory.gucangxingqiu.com/service/test/car/queryList?pageNum=1&pageSize=10&content=&sortProp=id&enableExclude=true
-status: up
-code: 200
-responseTime: 22650
-lastUpdated: 2025-02-06T23:16:28.096Z
+status: down
+code: 502
+responseTime: 1274
+lastUpdated: 2025-02-07T11:51:39.745Z
 startTime: 2025-01-04T07:51:39.954Z
 generator: Upptime <https://github.com/upptime/upptime>

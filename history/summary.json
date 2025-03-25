@@ -4,17 +4,17 @@
     "url": "https://factory.gucangxingqiu.com/service/test/car/queryList?pageNum=1&pageSize=10&content=&sortProp=id&enableExclude=true",
     "icon": "https://icons.duckduckgo.com/ip3/factory.gucangxingqiu.com.ico",
     "slug": "",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1521,
-    "timeDay": 1271,
-    "timeWeek": 1402,
-    "timeMonth": 1158,
-    "timeYear": 1521,
+    "time": 1516,
+    "timeDay": 1173,
+    "timeWeek": 1361,
+    "timeMonth": 1155,
+    "timeYear": 1516,
     "dailyMinutesDown": {}
   }
 ]
